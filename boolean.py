@@ -1,0 +1,6 @@
+bool("abc")
+bool("")
+bool(123)
+bool(0)
+bool(["apple", "cherry", "banana"])
+bool([])
